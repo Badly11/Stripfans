@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalji o stripu</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="js/details.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Detalji o stripu</h1>
+    </header>
+    <main>
+        <section class="strip-details">
+            <img id="strip-image" src="" alt="Slika stripa">
+            <div class="strip-info">
+                <h2 id="strip-title">Naslov stripa</h2>
+                <p><strong>Autor:</strong> <span id="strip-author"></span></p>
+                <p><strong>Cena:</strong> <span id="strip-price"></span> RSD</p>
+                <p id="strip-description">Opis stripa...</p>
+            </div>
+        </section>
+
+        <section class="strip-reviews">
+            <h3>Ocene</h3>
+            <div id="ratings-container">Još nema ocena.</div>
+            <form id="rating-form">
+                <label for="user-rating">Vaša ocena:</label>
+                <select id="user-rating" required>
+                    <option value="1">1 - Loše</option>
+                    <option value="2">2 - Slabo</option>
+                    <option value="3">3 - Dobro</option>
+                    <option value="4">4 - Odlično</option>
+                    <option value="5">5 - Sjajno</option>
+                </select>
+                <button type="submit">Dodaj ocenu</button>
+            </form>
+        </section>
+
+        <section class="strip-comments">
+            <h3>Komentari</h3>
+            <ul id="comments-list">
+                <!-- Ovde će biti prikazani komentari -->
+            </ul>
+            <form id="comment-form">
+                <label for="user-comment">Vaš komentar:</label>
+                <textarea id="user-comment" required></textarea>
+                <button type="submit">Dodaj komentar</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

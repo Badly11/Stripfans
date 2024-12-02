@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Tex-smrt prijatelja ",
+        "author": "Claudio Nizzi",
+        "image": "img/Tex-smrt prijatelja.jpg",
+        "price": 900
+    },
+    {
+        "id": 2,
+        "title": "Tex-ubojice",
+        "author": "Claudio Nizzi",
+        "price": 900,
+        "image": "img/tex-ubojice.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Tex-pokolj u Red Hillu",
+        "author": "Claudio Nizzi",
+        "price": 900,
+        "image": "img/Tex-pokolj u Red Hillu.jpg"
+    }, 
+    {
+        "id": 4,
+        "title": "Tex-zrtveni bunar",
+        "author": "Claudio Nizzi",
+        "price": 1200,
+        "image": "img/tex zrtveni bunar.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Tex-noc zombija",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/tex-noc zombija.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tex-vukovi kolorada",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-vukovi kolorada.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Tex-policijska konjica",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex- policijska konjica.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Tex-dva revolvera za Jasona",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-dva revolvera za Jasona.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Tex-napad na utvrdu",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-napad na utvrdu.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Tex-cijena pobede",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-cijena pobede.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Tex-wild west show",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-wild west show.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Tex-kineske sjene",
+        "author": "Claudio Nizzi",
+        "price": 1000,
+        "image": "img/Tex-kineske sjene.jpg" 
+    }
+]
