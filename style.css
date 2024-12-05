@@ -54,7 +54,7 @@ body {
 /* Hero */
 .hero {
     height: 70vh;
-    background: url('img/dylan\ dog\ back.webp') no-repeat center/cover;
+    background-image: url(img/dylan\ dog\ back.webp);
     display: flex;
     align-items: center;
     justify-content: center;
